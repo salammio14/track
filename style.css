@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    border: 1px solid black;
+    margin: 20px auto;
+}
+
+#get-location {
+    margin: 20px auto;
+    display: block;
+}
